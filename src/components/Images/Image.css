@@ -1,0 +1,12 @@
+.imgWrapper {
+    margin-left : 25px;
+}
+
+.gridEle {
+    flex-grow: 1;
+}
+
+.imgSize {
+    height: 175px;
+    width: 175px;
+}

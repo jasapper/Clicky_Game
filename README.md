@@ -1,1 +1,2 @@
-# Clicky_Game
+# Clicky Game Doggy Eddition!
+This is an old-school memory game using React and is heavily dependant upon it's glorious *states*! A group of 12 images are displayed and change positions randomly as they are clicked. If the same image is clicked more than once the game ends. Your running high score is shown next to your current score. The live version can be viewed at https://jasapper.github.io/Clicky_Game.

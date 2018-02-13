@@ -1,0 +1,11 @@
+.header {
+    background-color: blue;
+    color: white;
+    position: fixed;
+    width: 100%;
+    height: 90px;
+}
+
+.header-text {
+    padding: 30px;
+}
